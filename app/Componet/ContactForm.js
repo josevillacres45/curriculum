@@ -52,7 +52,7 @@ export function ContactForm() {
                         <p> 
                             <article class="text-center">
                                 <h3>
-                                    Muchas gracias!
+                                    ¡Muchas gracias!
                                     <br>
                                     Por tus comentarios 😊,
                                     <br>

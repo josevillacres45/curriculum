@@ -361,7 +361,13 @@ input[type=submit] {
     border: none;
     border-radius: 25px;
     padding: 6.5px;
+    cursor: pointer;
     color: var(--color-white);
+}
+
+input[type=submit]:hover{
+    outline: solid 2.25px #fff;
+    transition: outline 0.35s linear;
 }
 
 .d-none {
